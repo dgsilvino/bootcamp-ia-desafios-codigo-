@@ -19,7 +19,7 @@ Aqui está a descrição de cada desafio e o link para o código da minha soluç
 
 * **Objetivo:** Criar um algoritmo para classificar o sentimento de um comentário do usuário como "Positivo", "Negativo" ou "Neutro", com base na contagem de palavras-chave pré-definidas.
 * **Conceitos Aplicados:** Manipulação de strings, uso de listas, lógica condicional.
-* **Código:** `[Ver Solução](./desafio1_analise_sentimento.py)`
+* **Código:** `[Ver Solução](https://github.com/dgsilvino/bootcamp-ia-desafios-codigo-/blob/main/desafio1_analise_sentimento.py)`
 
 ---
 
@@ -27,7 +27,7 @@ Aqui está a descrição de cada desafio e o link para o código da minha soluç
 
 * **Objetivo:** Avaliar se um prompt fornecido pelo usuário é adequado, verificando se ele contém pelo menos uma de uma lista de palavras-chave relevantes para IAs generativas.
 * **Conceitos Aplicados:** Busca de substrings, laços de repetição (`for`), condicionais.
-* **Código:** `[Ver Solução](./desafio2_avaliar_prompt.py)`
+* **Código:** `[Ver Solução](https://github.com/dgsilvino/bootcamp-ia-desafios-codigo-/blob/main/desafio2_avaliar_prompt.py)`
 
 ---
 
@@ -35,7 +35,7 @@ Aqui está a descrição de cada desafio e o link para o código da minha soluç
 
 * **Objetivo:** Simular uma consulta a uma IA sobre boas práticas de refatoração. O programa retorna uma sugestão de melhoria de código com base na área especificada pelo usuário (ex: "nomes descritivos").
 * **Conceitos Aplicados:** Manipulação de strings, dicionários ou estruturas `if/elif/else`.
-* **Código:** `[Ver Solução](./desafio3_refatoracao.py)`  
+* **Código:** `[Ver Solução](https://github.com/dgsilvino/bootcamp-ia-desafios-codigo-/blob/main/desafio3_refatoracao.py)`  
     *(Lembre-se de adicionar seu arquivo .py para este desafio)*
 
 ---
@@ -44,7 +44,7 @@ Aqui está a descrição de cada desafio e o link para o código da minha soluç
 
 * **Objetivo:** Criar um sistema que, com base no cogumelo escolhido pelo cliente, sugere até duas outras opções mais baratas de uma lista pré-definida e ordenada.
 * **Conceitos Aplicados:** Estruturas de dados (dicionários ou listas de tuplas), laços e lógica de comparação.
-* **Código:** `[Ver Solução](./desafio4_recomendacao_cogumelos.py)`  
+* **Código:** `[Ver Solução](https://github.com/dgsilvino/bootcamp-ia-desafios-codigo-/blob/main/desafio4_recomendacao_cogumelos.py)`  
     *(Lembre-se de adicionar seu arquivo .py para este desafio)*
 
 ---
@@ -53,7 +53,7 @@ Aqui está a descrição de cada desafio e o link para o código da minha soluç
 
 * **Objetivo:** Receber `n` matrizes de confusão e calcular a acurácia e precisão para cada uma, identificando e exibindo os dados da matriz com melhor desempenho geral.
 * **Conceitos Aplicados:** Lógica matemática, iteração sobre estruturas de dados complexas, formatação de saída.
-* **Código:** `[Ver Solução](./desafio5_matriz_confusao.py)`
+* **Código:** `[Ver Solução](https://github.com/dgsilvino/bootcamp-ia-desafios-codigo-/blob/main/desafio5_matriz_confusao.py)`
 
 ## 🚀 Como Executar
 
