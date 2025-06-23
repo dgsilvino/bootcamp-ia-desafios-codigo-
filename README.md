@@ -36,7 +36,6 @@ Aqui está a descrição de cada desafio e o link para o código da minha soluç
 * **Objetivo:** Simular uma consulta a uma IA sobre boas práticas de refatoração. O programa retorna uma sugestão de melhoria de código com base na área especificada pelo usuário (ex: "nomes descritivos").
 * **Conceitos Aplicados:** Manipulação de strings, dicionários ou estruturas `if/elif/else`.
 * **Código:** [Ver Solução](https://github.com/dgsilvino/bootcamp-ia-desafios-codigo-/blob/main/desafio3_refatoracao.py)  
-    *(Lembre-se de adicionar seu arquivo .py para este desafio)*
 
 ---
 
@@ -45,7 +44,6 @@ Aqui está a descrição de cada desafio e o link para o código da minha soluç
 * **Objetivo:** Criar um sistema que, com base no cogumelo escolhido pelo cliente, sugere até duas outras opções mais baratas de uma lista pré-definida e ordenada.
 * **Conceitos Aplicados:** Estruturas de dados (dicionários ou listas de tuplas), laços e lógica de comparação.
 * **Código:** [Ver Solução](https://github.com/dgsilvino/bootcamp-ia-desafios-codigo-/blob/main/desafio4_recomendacao_cogumelos.py)  
-    *(Lembre-se de adicionar seu arquivo .py para este desafio)*
 
 ---
 
